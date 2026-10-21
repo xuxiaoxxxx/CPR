@@ -31,14 +31,14 @@ Across LIBERO, LIBERO-Plus, SimplerEnv, and real-world bimanual and single-arm t
 
 <!-- ## 📢 The code will be released after the paper is accepted. Stay tuned! -->
 
-<!-- ## 🔗 Citation
+## 🔗 Citation
 If you find our research helpful, please consider citing
 
 ```bibtex
-@article{xu2026futurevla,
+@article{xu2026cpr,
   title={From Predictive Geometry to Action: Learning Complementary Predictive Representations for Embodied Manipulation},
-  author={Xu, Xiaoxu and Li, Hao and Ye, Jinhui and Chen, Yilun and Zeng, Jia and Chen, Xinyi and Xu, Linning and Lin, Dahua and Li, Weixin and Pang, Jiangmiao},
-  journal={arXiv preprint arXiv:2603.10712},
+  author={Xiaoxu Xu, Hao Li, Hongtao Zhang, Yili Tang, Jiafei Cao, Junhao Cai, Haoxiang Ma, Weixin Li and Weinan Zhang},
+  journal={arXiv preprint arXiv:2610.28164},
   year={2026}
 }
-``` -->
+```

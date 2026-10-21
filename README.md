@@ -11,7 +11,7 @@
 
 <div id="top" align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.10712-red)](http://arxiv.org/abs/2610.28164)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.28164-red)](http://arxiv.org/abs/2610.28164)
 <!-- [![Homepage](https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue)](https://xuxiaoxxxx.github.io/projects/futurevla/) -->
 
 </div>
